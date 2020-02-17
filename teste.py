@@ -6,3 +6,5 @@ print(2*a)
 print(2**a)
 b = input('digite alguma coisa: ')
 print('voce é um '+b)
+c = 3.0 * a
+print('3 vezes a igual a: ' +c)
