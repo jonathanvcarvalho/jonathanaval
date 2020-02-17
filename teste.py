@@ -9,3 +9,4 @@ print('voce é um '+b)
 c = 3.0 * a
 print('3 vezes a igual a: ' +c)
 print('oi dnv')
+a = 2*a
